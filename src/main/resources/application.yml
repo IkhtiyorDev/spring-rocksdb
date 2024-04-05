@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-rocksdb
+
+rocksdb:
+  base:
+    path: ./spring-rocksdb
